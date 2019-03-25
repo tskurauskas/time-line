@@ -1,0 +1,22 @@
+{
+  "name": "time-line",
+  "version": "1.0.0",
+  "description": "Dynamic Time Line (bootstrap 4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tskurauskas/time-line.git"
+  },
+  "keywords": [
+    "timeline"
+  ],
+  "author": "Tomas Skurauskas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tskurauskas/time-line/issues"
+  },
+  "homepage": "https://github.com/tskurauskas/time-line#readme"
+}
