@@ -1,5 +1,5 @@
 {
-  "name": "time-line",
+  "name": "@tskurauskas/time-line",
   "version": "1.0.0",
   "description": "Dynamic Time Line (bootstrap 4)",
   "main": "index.js",
